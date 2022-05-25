@@ -10,8 +10,6 @@ const Dashboard = ({version}) => {
               </Typography>
               <p>
                   This app was developed for the XXX hackathon.
-              </p>
-              <p>
                   Explanation of the app.
               </p>
               <p className='text-lg'>
