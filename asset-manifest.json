@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/near-react-template/static/css/main.07045749.css",
-    "main.js": "/near-react-template/static/js/main.7d28d856.js",
+    "main.css": "/near-react-template/static/css/main.8805ed48.css",
+    "main.js": "/near-react-template/static/js/main.e0b5d59c.js",
     "static/js/787.03770da1.chunk.js": "/near-react-template/static/js/787.03770da1.chunk.js",
     "static/media/404.jpg": "/near-react-template/static/media/404.6fa35088bd569d4c3d4c.jpg",
     "index.html": "/near-react-template/index.html",
-    "main.07045749.css.map": "/near-react-template/static/css/main.07045749.css.map",
-    "main.7d28d856.js.map": "/near-react-template/static/js/main.7d28d856.js.map",
+    "main.8805ed48.css.map": "/near-react-template/static/css/main.8805ed48.css.map",
+    "main.e0b5d59c.js.map": "/near-react-template/static/js/main.e0b5d59c.js.map",
     "787.03770da1.chunk.js.map": "/near-react-template/static/js/787.03770da1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07045749.css",
-    "static/js/main.7d28d856.js"
+    "static/css/main.8805ed48.css",
+    "static/js/main.e0b5d59c.js"
   ]
 }
